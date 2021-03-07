@@ -1,18 +1,20 @@
-  
-           </div>
+
+
+        </div>
     </section>
-  
+
+
     <!-- Footer-->
-  <footer class="footer text-center">
+    <footer class="footer text-center">
         <div class="container">
             <div class="row">
                 <!-- Footer Location-->
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <h4 class="text-uppercase mb-4">Location</h4>
                     <p class="lead mb-0">
-                        Trg mladosti 4
+                        Trg mladosti 3
                         <br />
-                        3302 Velenje
+                        3320 Velenje
                     </p>
                 </div>
                 <!-- Footer Social Icons-->
